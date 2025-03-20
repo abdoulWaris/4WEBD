@@ -23,7 +23,7 @@ public class CustomerService {
     private CustomerMapper customerMapper;
 
     public String createCustomer(CustomerRequest request) {
-        var customer = customerRepository.save(customerMapper.toCustomer(request));
+        var customer = customerRepository.save(customerMapper.fromDtoToCustomer(request));
         return customer.getId();
     }
 
