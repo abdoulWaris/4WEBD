@@ -480,6 +480,9 @@
         <mxCell id="Kt4CexFySijoC3gFd0AW-15" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;fillColor=none;container=0;" vertex="1" parent="Kt4CexFySijoC3gFd0AW-13">
           <mxGeometry y="36.67969348659003" width="25.571745633503813" height="20.968831419473126" as="geometry" />
         </mxCell>
+        <mxCell id="n49cwzSgjhjXRsMLRAJF-1" value="Auth-authorization" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="56" y="677" width="115" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
