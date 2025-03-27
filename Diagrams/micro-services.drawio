@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.3" pages="4">
   <diagram id="VbmSNMpitOyS2P8errUJ" name="global-architecture">
-    <mxGraphModel dx="1383" dy="1516" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1580" dy="1676" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -444,43 +444,40 @@
         <mxCell id="RhejYsvXMCQbRo2wS7mk-9" value="User&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="315" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kt4CexFySijoC3gFd0AW-1" value="Product" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="491" y="-157" width="59" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Kt4CexFySijoC3gFd0AW-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png;" vertex="1" parent="1">
+        <mxCell id="Kt4CexFySijoC3gFd0AW-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png;" parent="1" vertex="1">
           <mxGeometry x="730.1799999999998" y="128" width="55.76" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Kt4CexFySijoC3gFd0AW-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png;" vertex="1" parent="1">
+        <mxCell id="Kt4CexFySijoC3gFd0AW-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png;" parent="1" vertex="1">
           <mxGeometry x="1293" y="447" width="55.76" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Kt4CexFySijoC3gFd0AW-4" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Kt4CexFySijoC3gFd0AW-4" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="517.94" y="226" width="50.120000000000005" height="57.64852490606316" as="geometry" />
         </mxCell>
-        <mxCell id="Kt4CexFySijoC3gFd0AW-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Database-postgres.svg/1448px-Database-postgres.svg.png;container=0;" vertex="1" parent="Kt4CexFySijoC3gFd0AW-4">
+        <mxCell id="Kt4CexFySijoC3gFd0AW-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Database-postgres.svg/1448px-Database-postgres.svg.png;container=0;" parent="Kt4CexFySijoC3gFd0AW-4" vertex="1">
           <mxGeometry x="15.99735211811253" width="36.12264788188748" height="51.04120428447361" as="geometry" />
         </mxCell>
-        <mxCell id="Kt4CexFySijoC3gFd0AW-6" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;fillColor=none;container=0;" vertex="1" parent="Kt4CexFySijoC3gFd0AW-4">
+        <mxCell id="Kt4CexFySijoC3gFd0AW-6" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;fillColor=none;container=0;" parent="Kt4CexFySijoC3gFd0AW-4" vertex="1">
           <mxGeometry y="36.67969348659003" width="25.571745633503813" height="20.968831419473126" as="geometry" />
         </mxCell>
-        <mxCell id="Kt4CexFySijoC3gFd0AW-10" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Kt4CexFySijoC3gFd0AW-10" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="840" y="159" width="50.120000000000005" height="57.64852490606316" as="geometry" />
         </mxCell>
-        <mxCell id="Kt4CexFySijoC3gFd0AW-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Database-postgres.svg/1448px-Database-postgres.svg.png;container=0;" vertex="1" parent="Kt4CexFySijoC3gFd0AW-10">
+        <mxCell id="Kt4CexFySijoC3gFd0AW-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Database-postgres.svg/1448px-Database-postgres.svg.png;container=0;" parent="Kt4CexFySijoC3gFd0AW-10" vertex="1">
           <mxGeometry x="15.99735211811253" width="36.12264788188748" height="51.04120428447361" as="geometry" />
         </mxCell>
-        <mxCell id="Kt4CexFySijoC3gFd0AW-12" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;fillColor=none;container=0;" vertex="1" parent="Kt4CexFySijoC3gFd0AW-10">
+        <mxCell id="Kt4CexFySijoC3gFd0AW-12" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;fillColor=none;container=0;" parent="Kt4CexFySijoC3gFd0AW-10" vertex="1">
           <mxGeometry y="36.67969348659003" width="25.571745633503813" height="20.968831419473126" as="geometry" />
         </mxCell>
-        <mxCell id="Kt4CexFySijoC3gFd0AW-13" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Kt4CexFySijoC3gFd0AW-13" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="458.00000000000006" y="571" width="50.120000000000005" height="57.64852490606316" as="geometry" />
         </mxCell>
-        <mxCell id="Kt4CexFySijoC3gFd0AW-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Database-postgres.svg/1448px-Database-postgres.svg.png;container=0;" vertex="1" parent="Kt4CexFySijoC3gFd0AW-13">
+        <mxCell id="Kt4CexFySijoC3gFd0AW-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Database-postgres.svg/1448px-Database-postgres.svg.png;container=0;" parent="Kt4CexFySijoC3gFd0AW-13" vertex="1">
           <mxGeometry x="15.99735211811253" width="36.12264788188748" height="51.04120428447361" as="geometry" />
         </mxCell>
-        <mxCell id="Kt4CexFySijoC3gFd0AW-15" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;fillColor=none;container=0;" vertex="1" parent="Kt4CexFySijoC3gFd0AW-13">
+        <mxCell id="Kt4CexFySijoC3gFd0AW-15" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;fillColor=none;container=0;" parent="Kt4CexFySijoC3gFd0AW-13" vertex="1">
           <mxGeometry y="36.67969348659003" width="25.571745633503813" height="20.968831419473126" as="geometry" />
         </mxCell>
-        <mxCell id="n49cwzSgjhjXRsMLRAJF-1" value="Auth-authorization" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="n49cwzSgjhjXRsMLRAJF-1" value="Auth-authorization" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="56" y="677" width="115" height="26" as="geometry" />
         </mxCell>
       </root>
