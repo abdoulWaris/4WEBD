@@ -13,9 +13,9 @@ This project consists of 8 microservices built using Spring Boot, Maven, Postgre
 7. **💳 Payment Service**: Handles payment-related operations.
 8. **👥 Customer Service**: Manages customer-related operations.
 9. **📂 Project structure**: You can see more about our project on 
-```sh
+
 https://app.diagrams.net/#HabdoulWaris%2F4WEBD%2Fmain%2FDiagrams%2Fmicro-services.drawio#%7B%22pageId%22%3A%22VbmSNMpitOyS2P8errUJ%22%7D.
-```
+
 ## Microservices Overview
 
 ### 🛠️ Config Server
